@@ -1,3 +1,5 @@
+//Write a C program to perform input/output of all basic data types.
+
 let job = null
 console.log(job)
 console.log (typeof(job))
